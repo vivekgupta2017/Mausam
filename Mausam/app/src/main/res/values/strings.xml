@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mausam</string>
+
+    <string name="activity_current">Mausam - Current Weather</string>
+    <string name="activity_weekly">Mausam - Weekly Forecast</string>
+    <string name="activity_setting">About</string>
+
+    <string name="open_weather_maps_app_id">e7ac691b068b6854ff6042be3a88fd0d</string>
+
+    <string name="navigation_view">View</string>
+    <string name="navigation_weather">Current</string>
+    <string name="navigation_weekly">Weekly</string>
+    <string name="navigation_control">Control</string>
+    <string name="navigation_setting">About</string>3
+    <string name="navigation_exit">Exit</string>
+
+    <string name="weather_tmr">Tomorrow</string>
+    <string name="weather_wind">Wind</string>
+    <string name="weather_pressure">Pressure</string>
+    <string name="weather_humidity">Humidity</string>
+    <string name="weather_sunrise">Sunrise</string>
+    <string name="weather_sunset">Sunset</string>
+    <string name="weather_update">Update</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="city0">Pune</string>
+    <string name="city1">Mumbai</string>
+    <string name="city2">Delhi</string>
+    <string name="city3">Kolkata</string>
+    <string name="city4">London</string>
+    <string name="city5">New York</string>
+    <string name="city6">Yakutsk</string>
+    <string name="city7">Nagpur</string>
+    <string name="city8">Cherrapunji</string>
+    <string name="city9">Aswan</string>
+
+    <string name="error_location">No weather data found for current location.</string>
+    <string name="error_empty">No data input found.</string>
+    <string name="error_network">No internet connection found.</string>
+
+    <string name="dialog_change_city">Change city name:</string>
+
+    <string name="setting_refresh">Refresh</string>
+    <string name="setting_location">Location</string>
+    <string name="setting_change_location">Change city</string>
+    <string name="setting_about">Mausam - v1.2</string>
+    <string name="setting_confirm">OK</string>
+    <string name="setting_cancel">Cancel</string>
+
+    <string name="description">\nA Weather Information and Forecast App.\n\nCreated by :\nPrajwal Bhalerao\nSudesh Pawar
+    \nVedang Jadhav\nVivek Gupta\n\nUsed OpenWeather API to capture data in JSON format and render it via the application.</string>
+</resources>
